@@ -17,7 +17,7 @@
   - For my main  model, I had two hidden layers with 100 neurons and 60 neurons respectively. 
 
 #### Deliverable 2: Model Creation 
-![neural_network_evaluation](neural_network_evaluation.png)
+![charity_eval](charity_eval.png)
 
 ### Deliverable 3:
   - Unfortunately, I was unable to reach the target model performace despite my attempts to tweak the models functionality. 
